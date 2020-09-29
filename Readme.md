@@ -1,4 +1,7 @@
+JOSE VICENTE TEJERO CALDERERA
+29/09/2020
 
+RESUMEN
 
 MOD08_DEMO
 
@@ -23,3 +26,6 @@ Set a Breakpoint in JavaScript Code
 
 
 ![image-20200928142601610](C:\Users\josev\AppData\Roaming\Typora\typora-user-images\image-20200928142601610.png)
+
+DIFICULTAD
+Es costoso encontrar los botones donde pulsar. 
